@@ -1,6 +1,0 @@
-id=fullscreen_aod_overlay
-name=Fullscreen AOD S22 Base
-version=1.0
-versionCode=1
-author=FXFS.de Tech 
-description=Enables fullscreen AOD by overlaying floating_feature.xml
